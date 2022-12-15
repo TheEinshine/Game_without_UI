@@ -4,8 +4,8 @@
   padding: 2rem;
   text-align: center;
 }
-*{
-  background-color: 'black';
+body{
+  background-color: rgb(13, 13, 13);
 }
 .logo {
   height: 6em;
